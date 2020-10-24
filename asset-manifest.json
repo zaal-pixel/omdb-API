@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/zaal-pixel/omdb-api.git/static/css/main.f0c93632.chunk.css",
-    "main.js": "/zaal-pixel/omdb-api.git/static/js/main.0875437d.chunk.js",
-    "main.js.map": "/zaal-pixel/omdb-api.git/static/js/main.0875437d.chunk.js.map",
+    "main.js": "/zaal-pixel/omdb-api.git/static/js/main.76972cf1.chunk.js",
+    "main.js.map": "/zaal-pixel/omdb-api.git/static/js/main.76972cf1.chunk.js.map",
     "runtime-main.js": "/zaal-pixel/omdb-api.git/static/js/runtime-main.26bbc171.js",
     "runtime-main.js.map": "/zaal-pixel/omdb-api.git/static/js/runtime-main.26bbc171.js.map",
     "static/js/2.cad1f0c2.chunk.js": "/zaal-pixel/omdb-api.git/static/js/2.cad1f0c2.chunk.js",
     "static/js/2.cad1f0c2.chunk.js.map": "/zaal-pixel/omdb-api.git/static/js/2.cad1f0c2.chunk.js.map",
     "index.html": "/zaal-pixel/omdb-api.git/index.html",
-    "precache-manifest.d0ce0400825767b5af8689bab91e7182.js": "/zaal-pixel/omdb-api.git/precache-manifest.d0ce0400825767b5af8689bab91e7182.js",
+    "precache-manifest.78cf2b73f53308f37f434c655a44aae5.js": "/zaal-pixel/omdb-api.git/precache-manifest.78cf2b73f53308f37f434c655a44aae5.js",
     "service-worker.js": "/zaal-pixel/omdb-api.git/service-worker.js",
     "static/css/main.f0c93632.chunk.css.map": "/zaal-pixel/omdb-api.git/static/css/main.f0c93632.chunk.css.map",
     "static/js/2.cad1f0c2.chunk.js.LICENSE.txt": "/zaal-pixel/omdb-api.git/static/js/2.cad1f0c2.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.26bbc171.js",
     "static/js/2.cad1f0c2.chunk.js",
     "static/css/main.f0c93632.chunk.css",
-    "static/js/main.0875437d.chunk.js"
+    "static/js/main.76972cf1.chunk.js"
   ]
 }
