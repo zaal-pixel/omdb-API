@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ad3deb3f92efd382988320b4a01855e0",
+    "revision": "d40c0e8acc78492824b3692fc88cfa07",
     "url": "/zaal-pixel/omdb-api.git/index.html"
   },
   {
-    "revision": "a3e07395f03a814c93b2",
+    "revision": "498068539d9f2f61690c",
     "url": "/zaal-pixel/omdb-api.git/static/css/main.f0c93632.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/zaal-pixel/omdb-api.git/static/js/2.cad1f0c2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a3e07395f03a814c93b2",
-    "url": "/zaal-pixel/omdb-api.git/static/js/main.76972cf1.chunk.js"
+    "revision": "498068539d9f2f61690c",
+    "url": "/zaal-pixel/omdb-api.git/static/js/main.0875437d.chunk.js"
   },
   {
     "revision": "1d072f47b105e226e3fa",
